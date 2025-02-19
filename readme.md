@@ -16,6 +16,7 @@ pip install -r requirements.txt
 ```
 
 2. Set up the agent:
+Set PROJECT_CONNECTION_STRING in .env file
 ```bash
 python agent_setup.py
 ```
